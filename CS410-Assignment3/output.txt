@@ -1,0 +1,8 @@
+Input: 00
+Route taken: q1 q2 q3 q5 q5 q2 q2 qA 
+String 00 accepted
+
+Input: 000
+Route taken: q1 q2 q3 q4 qR 
+String 000 rejected
+
